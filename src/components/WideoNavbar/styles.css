@@ -1,0 +1,34 @@
+@media (min-width: 300px) { 
+  .input-xs{
+      width: 150px;
+  }
+  .btn-xs{
+    width: 40px;
+  }
+    .btn-xs > span {
+      visibility: hidden;
+    }
+}
+@media (min-width: 576px) { 
+  .input-xs{
+    width: 280px;
+  }
+  .btn-xs{
+    width: 80px;
+  }
+    .btn-xs > span {
+      visibility: visible;
+    }
+}
+
+@media (min-width: 768px) { 
+  .input-xs{
+    width: 400px;
+  }
+}
+
+@media (min-width: 992px) {
+  .input-xs{
+    width: 750px;
+  }
+}

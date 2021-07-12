@@ -1,0 +1,26 @@
+.form{
+    padding-left: 30%; 
+    
+}
+.custom-control{
+  width: 300px;
+}
+.button{ 
+border-radius: 4px;
+background: #982281;
+padding: 10px 22px;
+color: #fff;
+outline: none;
+ border: none;
+cursor: pointer;
+transition: all 0.2s ease-in-out;
+text-decoration: none;
+ /* Second Nav */
+ margin-left: 24px;    
+}
+.button:hover{
+     transition: all 0.2s ease-in-out;
+     background: #bb4ba5;
+     color: #fff;
+                
+}

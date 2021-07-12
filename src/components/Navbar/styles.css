@@ -1,0 +1,34 @@
+.button{
+border-radius: 4px;
+  background: #982281;
+  padding: 10px 22px;
+  color: #fff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  /* Second Nav */
+  margin-left: 24px;
+    
+}
+.button:hover{
+        transition: all 0.2s ease-in-out;
+        background: #bb4ba5;
+        color: #fff;
+        
+}
+
+.cool-input{
+    
+    border-radius: .5em;
+    padding: 8px 99px;
+    /*width: 15rem;*/
+   /* padding: .4em;*/
+    transition: all 0.2s ease-in-out;
+}
+.cool-input:hover{
+    transition: all 0.2s ease-in-out;
+    border-color:#B33771;
+    border-width: 3px;
+}

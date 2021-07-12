@@ -1,0 +1,5 @@
+.custom-scrollable{
+    width: 360px;
+    height: 320px;
+    overflow-y: auto;
+}
