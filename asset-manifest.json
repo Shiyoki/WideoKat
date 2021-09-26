@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/WideoProduction/static/css/main.dac7abb7.chunk.css",
-    "main.js": "/WideoProduction/static/js/main.8c983a38.chunk.js",
-    "main.js.map": "/WideoProduction/static/js/main.8c983a38.chunk.js.map",
-    "runtime-main.js": "/WideoProduction/static/js/runtime-main.8f1b0218.js",
-    "runtime-main.js.map": "/WideoProduction/static/js/runtime-main.8f1b0218.js.map",
-    "static/css/2.103ad870.chunk.css": "/WideoProduction/static/css/2.103ad870.chunk.css",
-    "static/js/2.6f7394fb.chunk.js": "/WideoProduction/static/js/2.6f7394fb.chunk.js",
-    "static/js/2.6f7394fb.chunk.js.map": "/WideoProduction/static/js/2.6f7394fb.chunk.js.map",
-    "static/js/3.ea4687ee.chunk.js": "/WideoProduction/static/js/3.ea4687ee.chunk.js",
-    "static/js/3.ea4687ee.chunk.js.map": "/WideoProduction/static/js/3.ea4687ee.chunk.js.map",
-    "index.html": "/WideoProduction/index.html",
-    "static/css/2.103ad870.chunk.css.map": "/WideoProduction/static/css/2.103ad870.chunk.css.map",
-    "static/css/main.dac7abb7.chunk.css.map": "/WideoProduction/static/css/main.dac7abb7.chunk.css.map",
-    "static/js/2.6f7394fb.chunk.js.LICENSE.txt": "/WideoProduction/static/js/2.6f7394fb.chunk.js.LICENSE.txt"
+    "main.css": "/WideoKat/static/css/main.dac7abb7.chunk.css",
+    "main.js": "/WideoKat/static/js/main.8c983a38.chunk.js",
+    "main.js.map": "/WideoKat/static/js/main.8c983a38.chunk.js.map",
+    "runtime-main.js": "/WideoKat/static/js/runtime-main.239abb6f.js",
+    "runtime-main.js.map": "/WideoKat/static/js/runtime-main.239abb6f.js.map",
+    "static/css/2.103ad870.chunk.css": "/WideoKat/static/css/2.103ad870.chunk.css",
+    "static/js/2.6c648581.chunk.js": "/WideoKat/static/js/2.6c648581.chunk.js",
+    "static/js/2.6c648581.chunk.js.map": "/WideoKat/static/js/2.6c648581.chunk.js.map",
+    "static/js/3.ea4687ee.chunk.js": "/WideoKat/static/js/3.ea4687ee.chunk.js",
+    "static/js/3.ea4687ee.chunk.js.map": "/WideoKat/static/js/3.ea4687ee.chunk.js.map",
+    "index.html": "/WideoKat/index.html",
+    "static/css/2.103ad870.chunk.css.map": "/WideoKat/static/css/2.103ad870.chunk.css.map",
+    "static/css/main.dac7abb7.chunk.css.map": "/WideoKat/static/css/main.dac7abb7.chunk.css.map",
+    "static/js/2.6c648581.chunk.js.LICENSE.txt": "/WideoKat/static/js/2.6c648581.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f1b0218.js",
+    "static/js/runtime-main.239abb6f.js",
     "static/css/2.103ad870.chunk.css",
-    "static/js/2.6f7394fb.chunk.js",
+    "static/js/2.6c648581.chunk.js",
     "static/css/main.dac7abb7.chunk.css",
     "static/js/main.8c983a38.chunk.js"
   ]
